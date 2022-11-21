@@ -8,7 +8,7 @@ ____
 ### How to use it?
 
 Firstly, make sure you run requirements.txt modules and packages installed.
-usage: pip install -r /path/to/requirements.txt
+usage: pip install -r requirements.txt
 
 Use `mfacebook-upic.py` to collect the data. 
 ```
