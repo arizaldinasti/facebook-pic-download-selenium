@@ -1,5 +1,5 @@
 # facebook-upic-downloader-selenium
-A simple python3 script used to download pictures from facebook
+A simple python3 script used to download pictures from https://m.facebook.com/
 
 ## mFaceBook-User Pic-Scraper [2022]
 Scrape photos from any user and saved to a directory
