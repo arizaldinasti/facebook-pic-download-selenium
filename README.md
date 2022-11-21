@@ -1,4 +1,4 @@
-# facebook-pic-download-selenium
+# facebook-upic-downloader-selenium
 A simple python3 script used to download pictures from facebook
 
 ## mFaceBook-User Pic-Scraper [2022]
@@ -18,6 +18,9 @@ usage: mfacebook-upic.py
 Store your email and password for Facebook login :
 Enter the profile url (ex:https://m.facebook.com/arizaldinasti/) : [your profile url]
 Enter the folder url of current profile album (leave it empty to download pics of all folders) : [user folder url of their album]
+
+(To find album url of user, add photos at the end of profile url eg: https://m.facebook.com/arizaldinasti/photos)
+(To find folder url click a folder and copy the url address of your browser)
 
 ____
 The output folder is `ScrappedPhotos` inside the script folder.
